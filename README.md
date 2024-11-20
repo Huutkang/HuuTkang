@@ -23,7 +23,3 @@ I’m passionate about **microservices**, **science**, **cybersecurity**, and **
 - Email: [thang.scime@gmail.com](mailto:thang.scime@gmail.com)
 
 ---
-
-![GitHub Octocat](https://octodex.github.com/images/codercat.jpg)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
