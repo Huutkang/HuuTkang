@@ -7,7 +7,7 @@ I’m passionate about **microservices**, **science**, **cybersecurity**, and **
 
 ### 🌟 **Skills & Tools**
 - **Programming Languages**: Python, Java, C, Golang, PHP, JavaScript.
-- **Frameworks & Libraries**: Spring Boot, FastAPI, Django, Symfony, React, Node.js.
+- **Frameworks & Libraries**: Spring Boot, FastAPI, Django, Symfony, React, express.
 - **Tools**: Linux, Git, Docker, Arduino.
 - **Databases**: MySQL, PostgreSQL, SQLite.
 
